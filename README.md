@@ -1,2 +1,2 @@
 # rsschool-cv
-https://anchoys16.github.io/rsschool-cv/cv
+https://anchoys.github.io/rsschool-cv/
