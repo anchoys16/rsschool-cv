@@ -29,3 +29,4 @@ Belarusian State University of Informatics and Radioelectronics
 ### Languages 
 * Russian – native speaker
 * English – B1 
+
